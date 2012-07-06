@@ -14,6 +14,8 @@ cod_doenca <espaco> número de ocorrências
 
 Arquivos de exemplo estao localizados em hadoop-blog-intro/src/main/resources/input e hadoop-blog-intro/src/main/resources/output
 
+Para gerar o jar contendo o MapReduce e o Hadoop Job basta utilizar o Maven (mvn install)
+
 #Referências para executar o MapReduce
 
 Configurando o Hadoop: http://hadoop.apache.org/common/docs/r1.0.3/single_node_setup.html
